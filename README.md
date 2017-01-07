@@ -1,1 +1,1 @@
-# platform-repo
+# platform-repo is a basic maven application
