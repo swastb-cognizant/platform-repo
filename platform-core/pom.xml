@@ -6,7 +6,7 @@
   <artifactId>platform-core</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
+  <!-- This is basic code comment for issue fixing -->
   
   <name>platform-core</name>
   <url>http://maven.apache.org</url>
